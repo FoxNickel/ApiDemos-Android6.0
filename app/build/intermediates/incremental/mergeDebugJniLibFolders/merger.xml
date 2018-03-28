@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/huanglingyu/AndroidStudioProjects/development-android-cts-6.0_r27-samples-ApiDemos/app/src/main/jniLibs"/></dataSet><dataSet config="debug"><source path="/Users/huanglingyu/AndroidStudioProjects/development-android-cts-6.0_r27-samples-ApiDemos/app/src/debug/jniLibs"/></dataSet></merger>
